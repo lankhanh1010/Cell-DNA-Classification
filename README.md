@@ -20,5 +20,5 @@ To simplify the problem, we transformed it into a **binary classification task**
 - Design a neural network to classify bacteria based on provided features.
 - Evaluate and interpret the model's performance using accuracy, loss, and confusion matrix.
 
-## 📁 Acknowledgment  
+## Acknowledgment  
 Dataset provided by **Prof. Chih Lai** of the **University of St. Thomas**.
